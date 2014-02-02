@@ -1,0 +1,2 @@
+##BroadcastReceiver
+BroadcastReceiverとは、Broadcastとして配信される情報を受信して、それに対処するためのコンポーネント。BroadcastReceiverには、システムが発信するものとして、バッテリーの残量が少なくなったという警告やユーザーの設定によってタイムゾーンが変更されたといった通知などがある。
